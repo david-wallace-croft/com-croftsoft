@@ -6,7 +6,7 @@ description = "Re-export of com-croftsoft-* crates"
 edition = "2021"
 homepage = "http://www.croftsoft.com/"
 license = "MIT"
-publish = false
+# publish = false
 readme = "README.md"
 repository = "https://github.com/david-wallace-croft/com-croftsoft"
 
