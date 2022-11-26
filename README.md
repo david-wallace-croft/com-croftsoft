@@ -1,5 +1,5 @@
 # com-croftsoft
 
 - Re-export of com-croftsoft-* crates
-- http://www.croftsoft.com/
-- Published to crates.io on 2022-07-30
+- https://www.croftsoft.com/
+- First published to crates.io on 2022-07-30
