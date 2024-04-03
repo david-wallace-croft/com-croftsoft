@@ -5,11 +5,11 @@ edition = "2021"
 homepage = "https://www.CroftSoft.com/"
 license = "MIT"
 name = "com-croftsoft"
-publish = true
+publish = false
 readme = "README.md"
 repository = "https://github.com/david-wallace-croft/com-croftsoft"
 rust-version = "1.73"
-version = "0.11.0"
+version = "0.11.1-SNAPSHOT"
 
 [dependencies]
 com-croftsoft-core = "0.14.0"
